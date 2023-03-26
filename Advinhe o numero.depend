@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679858521 source:c:\users\fonte\desktop\advinhe o numero\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
